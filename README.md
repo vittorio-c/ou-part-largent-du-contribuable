@@ -23,21 +23,21 @@
 *- Quel `Direction` acccepte le plus d'argent par année ?*
 *- Quel `Direction` acccepte le plus de fois d'argent par année ?*
 
-## (Exemple de présenation)##
-## Bénéficiaire / Direction | 2013 | 2014 | ... ##
+**(Exemple de présenation)**
+**Bénéficiaire / Direction | 2013 | 2014 | ...**
 
 *- Combien il y a eu de `Bénéficiaire` par année ?*
 *- Combien il y a eu de demandes par année ?*
 *- Quel est le montant accordé par année ?*
 
-## (Exemple de présenation)##
-## Année | Nombre de Bénéficiaire TOTAUX | Nombre de demandes | Montant TOTAL##
+**(Exemple de présenation)**
+**Année | Nombre de Bénéficiaire TOTAUX | Nombre de demandes | Montant TOTAL**
 
 *- Combien il y a eu de `Secteur` par année ?*
 *- Quel est le montant accordé par `Secteur` par année ?*
 
-## (Exemple de présenation)##
-## Année | Nombre de Secteur TOTAUX | Nombre de Secteur | Montant TOTAL##
+**(Exemple de présenation)**
+**Année | Nombre de Secteur TOTAUX | Nombre de Secteur | Montant TOTAL**
 
 *- Quels sont les mots du `objet du dossier` qui permmettent d'obtenir le plus de subventions ?*
 *- Recherche d'une corrélation entre secteur d'activité et montant accordé*
