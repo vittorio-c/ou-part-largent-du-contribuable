@@ -14,7 +14,7 @@
 
 ## liste des insights / Stats possibles
 
-*- Trouver le moyen de parser efficacement parser(;) la colonne `Secteurs d'activités définies par l'association`* : Brandon 
+*- Trouver le moyen de parser efficacement parser(;) la colonne `Secteurs d'activités définies par l'association`* : Brandon  
 *- Récupérer les différents `Secteurs d'activités définies par l'association` (17)*                                : Brandon
 
 *- Quel `Bénéficiaire` demande le plus d'argent par année ?*           : Vittorio
@@ -26,9 +26,9 @@
 **(Exemple de présenation)**
 **Bénéficiaire / Direction | 2013 | 2014 | ...**
 
-*- Combien il y a eu de `Bénéficiaire` par année ?*  : Raid
-*- Combien il y a eu de demandes par année ?*        : Raid
-*- Quel est le montant accordé par année ?*          : Raid
+- *Combien il y a eu de `Bénéficiaire` par année ?*  : Raid
+- *Combien il y a eu de demandes par année ?*        : Raid
+- *Quel est le montant accordé par année ?*          : Raid
 
 **(Exemple de présenation)**
 **Année | Nombre de Bénéficiaire TOTAUX | Nombre de demandes | Montant TOTAL**
