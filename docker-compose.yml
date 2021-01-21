@@ -1,0 +1,13 @@
+version: "3.7"
+services:
+
+  pyspark-notebook:
+    image: jupyter/pyspark-notebook
+    container_name: ou-part-largent-du-contribuable
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./work:/home/jovyan/work
+    environment:
+      - PYSPARK_PYTHON=/usr/bin/python3
+      - PYSPARK_DRIVER_PYTHON=ipython3
