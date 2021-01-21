@@ -14,14 +14,14 @@
 
 ## liste des insights / Stats possibles
 
-*- Trouver le moyen de parser efficacement parser(;) la colonne `Secteurs d'activités définies par l'association`* : Brandon  
-*- Récupérer les différents `Secteurs d'activités définies par l'association` (17)*                                : Brandon
+- *Trouver le moyen de parser efficacement parser(;) la colonne `Secteurs d'activités définies par l'association`* : Brandon  
+- *Récupérer les différents `Secteurs d'activités définies par l'association` (17)*                                : Brandon
 
-*- Quel `Bénéficiaire` demande le plus d'argent par année ?*           : Vittorio
-*- Quel `Bénéficiaire` demande le plus de fois d'argent par année ?*   : Vittorio
+- *Quel `Bénéficiaire` demande le plus d'argent par année ?*           : Vittorio
+- *Quel `Bénéficiaire` demande le plus de fois d'argent par année ?*   : Vittorio
 
-*- Quel `Direction` acccepte le plus d'argent par année ?*             : Sébastien
-*- Quel `Direction` acccepte le plus de fois d'argent par année ?*     : Sébastien
+- *Quel `Direction` acccepte le plus d'argent par année ?*             : Sébastien
+- *Quel `Direction` acccepte le plus de fois d'argent par année ?*     : Sébastien
 
 **(Exemple de présenation)**
 **Bénéficiaire / Direction | 2013 | 2014 | ...**
@@ -33,14 +33,14 @@
 **(Exemple de présenation)**
 **Année | Nombre de Bénéficiaire TOTAUX | Nombre de demandes | Montant TOTAL**
 
-*- Combien il y a eu de `Secteur` par année ?*              : Wissem
-*- Quel est le montant accordé par `Secteur` par année ?*   : Wissem
+- *Combien il y a eu de `Secteur` par année ?*              : Wissem
+- *Quel est le montant accordé par `Secteur` par année ?*   : Wissem
 
 **(Exemple de présenation)**
 **Année | Nombre de Secteur TOTAUX | Nombre de Secteur | Montant TOTAL**
 
-*- Quels sont les mots du `objet du dossier` qui permmettent d'obtenir le plus de subventions ?*    : Sébastien
-*- Recherche d'une corrélation entre secteur d'activité et montant accordé*                         : Tout le monde !
-*- Compter les mots dans `Noms bénéficiaires` !*                                                    : Tout le monde !
+- *Quels sont les mots du `objet du dossier` qui permmettent d'obtenir le plus de subventions ?*    : Sébastien
+- *Recherche d'une corrélation entre secteur d'activité et montant accordé*                         : Tout le monde !
+- *Compter les mots dans `Noms bénéficiaires` !*                                                    : Tout le monde !
 
 
