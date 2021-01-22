@@ -15,7 +15,7 @@
 ## liste des insights / Stats possibles
 
 - *Trouver le moyen de parser efficacement parser(;) la colonne `Secteurs d'activités définies par l'association`* : Brandon  
-- *Récupérer les différents `Secteurs d'activités définies par l'association` (17)*                                : Brandon
+- *Récupérer les différents `Secteurs d'activités définies par l'association` (22)*                                : Brandon
 
 - *Quel `Bénéficiaire` demande le plus d'argent par année ?*           : Vittorio
 - *Quel `Bénéficiaire` demande le plus de fois d'argent par année ?*   : Vittorio
