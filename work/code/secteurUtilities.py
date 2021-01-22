@@ -28,4 +28,4 @@ def selectSecteur(df, secteursName):
         Retourne si la colonne `Secteur` contient `secteursName`
     '''
 
-    return df.select('Secteur').where(f"Secteur LIKE '%{secteursName}%'")
+    return df.where(f"Secteur LIKE '%{secteursName}%'")
