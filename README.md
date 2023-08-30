@@ -1,5 +1,7 @@
 # About
 
+> This is a student project
+
 > Ou part l'argent du contribuable ? Where does the taxpayer's money go?
 
 This repository is a exploratory data analysis (EDA) of a french public data set (<https://www.data.gouv.fr/fr/>)
