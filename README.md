@@ -8,9 +8,9 @@ The dataset describes the grant applications made by associations/NGO to several
 
 Hence the name "Ou part l'argent du contribuable ?" (_"Where does the taxpayer's money go?"_)
 
-The dataset is available at [](./work/data/subventions-accordees-et-refusees.csv)
+The dataset is available at ![](./work/data/subventions-accordees-et-refusees.csv)
 
-The Jupyter notebook containing the EDA is available at [](./work/presentation.ipynb)
+The Jupyter notebook containing the EDA is available at ![](./work/presentation.ipynb)
 
 # Workflow
 
